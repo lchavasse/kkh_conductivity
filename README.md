@@ -3,13 +3,13 @@ Data and Code from our research in conductivity as an in situ reaction monitorin
 
 ### Directory Tree:
 |-- Finkelstein\
-|  |-- Acetone\
-|  |  |-- Bncl: Original conductivity data for benzyl chloride runs, notebooks for conversion to concentration profiles, with IR data included where taken.\
-|  |  |-- para_sub_bncl: Original conductivity data plus a single notebook for producing concentration profiles.\
-|  |-- DMF\
+| &emsp; |-- Acetone\
+| &emsp; | &emsp; |-- Bncl: Original conductivity data for benzyl chloride runs, notebooks for conversion to concentration profiles, with IR data included where taken.\
+| &emsp; | &emsp; |-- para_sub_bncl: Original conductivity data plus a single notebook for producing concentration profiles.\
+| &emsp; |-- DMF\
     to be uploaded
 
 |-- Other Reactions: ! to be uploaded\
-|  |-- Heck Coupling\
-|  |-- Trifluoromethylation\
-|  |-- Aldol reaction of acetone
+| &emsp; |-- Heck Coupling\
+| &emsp; |-- Trifluoromethylation\
+| &emsp; |-- Aldol reaction of acetone
